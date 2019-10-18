@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PayDay
+comment0.text=\n\ Write\ a\ description\ of\ class\ PayDay\ here.\n\n\ Michael\ Doll\n\ 10.18.2019\n
+comment1.params=name\ hours\ payRate\ deductions
+comment1.target=PayDay(java.lang.String,\ double,\ double,\ double)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ PayDay\n
+comment2.params=name\ hours\ payRate\ deductions
+comment2.target=java.lang.String\ printPay(java.lang.String,\ double,\ double,\ double)
+comment2.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\n
+numComments=3
